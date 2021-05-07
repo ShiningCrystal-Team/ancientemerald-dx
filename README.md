@@ -1,3 +1,5 @@
+### This readme contains 2 sections, one for aaaaaa123456789's original project, and one for AE REBORN
+
 # 16-bit index expansion for Crystal
 
 This repository contains a modified Pokémon Crystal game, updated to handle 16-bit indexes. The main goal of this
@@ -64,3 +66,14 @@ that will go beyond indexes.
 [compare]: https://github.com/aaaaaa123456789/pokecrystal16/compare
 [pokecrystal]: https://github.com/pret/pokecrystal/
 [wiki]: https://github.com/aaaaaa123456789/pokecrystal16/wiki
+
+# AncientEmerald REBORN
+AE Reborn uses the new integer limit to add all of the new Pokemon from ORAS's regional dex, and all of the moves in every main series Pokemon game(as of Generation VIII{, including those removed from Generation VIII.})
+
+## New features
+* Pokenav
+* ORAS regional dex
+* Devamped music and sounds
+* Fairy type(maybe)
+* Physical-special split(hopefuly)
+* GBC-style demade graphics
