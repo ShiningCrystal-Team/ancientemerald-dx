@@ -77,3 +77,4 @@ AE Reborn uses the new integer limit to add all of the new Pokemon from ORAS's r
 * Fairy type(maybe)
 * Physical-special split(hopefuly)
 * GBC-style demade graphics
+* All the moves!
