@@ -1,4 +1,4 @@
-### This readme contains 2 sections, one for aaaaaa123456789's original project, and one for AE REBORN
+### This readme contains 2 sections, one for aaaaaa123456789's original project, and one for AE DX
 
 # 16-bit index expansion for Crystal
 
@@ -67,7 +67,7 @@ that will go beyond indexes.
 [pokecrystal]: https://github.com/pret/pokecrystal/
 [wiki]: https://github.com/aaaaaa123456789/pokecrystal16/wiki
 
-# AncientEmerald REBORN
+# AncientEmerald DX
 AE Reborn uses the new integer limit to add all of the new Pokemon from ORAS's regional dex, and all of the moves in every main series Pokemon game(as of Generation VIII{, including those removed from Generation VIII.})
 
 ## New features
