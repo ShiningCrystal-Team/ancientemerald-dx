@@ -72,7 +72,7 @@ AE Reborn uses the new integer limit to add all of the new Pokemon from ORAS's r
 
 ## New features
 * Pokenav
-* ORAS regional dex
+* Gen VI natdex
 * Devamped music and sounds
 * Fairy type(maybe)
 * Physical-special split(hopefuly)
